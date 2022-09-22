@@ -1,5 +1,4 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+nama :fathur rahman
+nim :21343046
+Materi ini menjelaskan tentang 3 class yaitu : -class scanner digunakan secara ekstensif untuk memasukan data dari keyboard.Tidak seperti perintah masukan lainnya, data-data yang dimasukkan misalnya berupa angka, tidak perlu dilakukan konversi dari String ke integer atau tipe. data lainnya. -class BuffredReader fungsinya adalah membaca file dari input stream. Lebih spesifik lagi bahwa class ini digunakan sebagai buffer dari karakter-karakter dengan tujuan membuat penanganan yang lebih efisien untuk string, character, dan array. -class JOptionPane merupakan sebuah kelas yang menyediakan jendela dialog. JOptionPane bisa kita gunakan untuk mengambil input, menampilkan informasi, menampilkan pesan error, menampilkan dialog konfirmasi, dan lain-lain.
